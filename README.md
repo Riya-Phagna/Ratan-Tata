@@ -70,3 +70,20 @@ tata-group-dashboard/
 └── README.md # Project documentation
 
 📁 Output
+![Image](https://github.com/user-attachments/assets/6b944144-4d01-4bca-8f43-f23f0190620e)
+
+![Image](https://github.com/user-attachments/assets/fb4de575-8082-48f2-bd41-5fc4e7364d98)
+
+![Image](https://github.com/user-attachments/assets/48dae4ef-2dcf-4b91-99e1-f3868f02a977)
+
+![Image](https://github.com/user-attachments/assets/1257e709-4ff0-43c0-b81d-a08b7087a86f)
+
+![Image](https://github.com/user-attachments/assets/d63bea10-99e3-4258-a431-64e3889f2a55)
+
+![Image](https://github.com/user-attachments/assets/fc639d49-71f5-4c7e-9316-f74e75cc3f1c)
+
+![Image](https://github.com/user-attachments/assets/cc594539-3140-4092-96a7-fb93b6fee153)
+
+![Image](https://github.com/user-attachments/assets/90e1986b-becf-4252-87ee-7827fa3dbc6c)
+
+![Image](https://github.com/user-attachments/assets/2551e63f-6cf6-470f-b28d-ddd435463ec7)
